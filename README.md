@@ -2,6 +2,8 @@
 
 A modern, responsive e-commerce website for premium gaming chairs, featuring an immersive UI design and seamless user experience.
 
+**Access the project here:- [Gaming-Chair-2025](https://arpanpatra111.github.io/GamingChair2025/)**
+
 ![Website Screenshot](image.png)
 
 ## ✨ Features
@@ -40,7 +42,6 @@ A modern, responsive e-commerce website for premium gaming chairs, featuring an 
 - Flexible product grid
 - Responsive contact form layout
 - Mobile-optimized images and content
-
 
 ## 🌐 Browser Support
 
